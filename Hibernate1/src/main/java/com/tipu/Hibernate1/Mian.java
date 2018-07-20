@@ -16,7 +16,7 @@ public class Mian {
 		grade.setId(1);
 		grade.setStudent(student);
 		grade.setCourse(course);
-		grade.setGrade("AA");
+		grade.setGrade("AAA");
 		
 		System.out.println("Grdae: "+grade);
 	}
